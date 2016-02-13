@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/application/controllers/topup.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/application/models/raise_model.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/application/views/deposit_pw_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/get_pw_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_co_team.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_contact_us.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_detail_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_media_report.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_our_team.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_question.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/help_safty.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/home_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/i_reits_detail_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/i_reits_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/identity_proof_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/iscroll_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/login_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/mailbox_proof_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/mobile_proof_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/my_account_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/my_setting_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/out_money_detail_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/out_money_detail_seng_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/out_money_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/phone_register_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/pw_manage_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/register_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/set_pw_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/showmsg_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/toufang_detail_page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/toufang_page.php" charset="UTF-8" />
+  </component>
+</project>
+
